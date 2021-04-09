@@ -37,7 +37,6 @@ while not end_of_game:
   #Check if user is wrong.
     if guess not in chosen_word:
         print(f"{guess} is not in the chosen word. You lose a life.")
-
         lives -= 1
         if lives == 0:
             end_of_game = True
