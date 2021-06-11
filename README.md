@@ -1,3 +1,3 @@
 # Python_Projects
 
-Learning Python buy building projects.
+Learning Python by building projects.
